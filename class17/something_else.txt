@@ -1,0 +1,1 @@
+This is just a simple text editior where I can write notes or code etc.
