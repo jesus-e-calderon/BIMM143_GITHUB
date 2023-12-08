@@ -10,6 +10,6 @@ My class work for F23 in [BIMM143](https://bioboot.github.io/bimm143_F23/) at UC
 - Class 11: [Structural Bioinformatics (pt2. Focus on new AlphaFold2)]()
 - Class 12: [Genome informatics](https://github.com/jesus-e-calderon/BIMM143_GITHUB/blob/main/Class%2012/JESUSwk2_homework.pdf)
 - Class 13: [Transcriptomics and the analysis of RNA-Seq data]()
-- Class 14: [RNA-Seq analysis mini-project]()
+- Class 14: [RNA-Seq analysis mini-project](https://github.com/jesus-e-calderon/BIMM143_GITHUB/blob/main/Class%2014/InLABClass14.pdf)
 - Class 17: [Essential UNIX for bioinformatics]()
 - Class 18: [Analyzing sequencing data in the cloud]()
